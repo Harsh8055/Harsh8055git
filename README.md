@@ -23,9 +23,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 <ul>
-<li> ✔ I’m currently Learning  Solidity For Smart Contract Development </li>
+<li>✔ I’m currently Learning  Solidity For Smart Contract Development </li>
 <li>✔ I’m currently learning ReactJS & NodeJS For Web Development</li>
-<li>✔ I’m looking to collaborate with any **Open - Source contribution** </li>
+<li>✔ I’m looking to collaborate with any Open - Source contribution </li>
 <li>✔ I’m looking for help for learning Solidity</li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
  </ul>
