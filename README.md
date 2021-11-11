@@ -27,11 +27,8 @@
 <li>✔ I’m currently learning ReactJS & NodeJS For Web Development</li>
 <li>✔ I’m looking to collaborate with any Open - Source contribution </li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
- </ul>
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left" style="display: flex">
-  
+  <li><p align="left" style="display: flex">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
  
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
@@ -41,3 +38,8 @@
   <code> <img height="50" src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg"> </code>
   <hr>
  </p>
+ </li>
+
+ </ul>
+
+
