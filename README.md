@@ -40,4 +40,4 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg"> </code>
   <hr>
- 
+ </p>
