@@ -24,18 +24,16 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 <ul>
   <li> ✔ I’m currently Learning  Solidity For Smart Contract Development </li>
-<li>✔ I’m currently learning **ReactJS** & **NodeJS** For Web Development</li>
+<li>✔ I’m currently learning ReactJS & NodeJS For Web Development</li>
 <li>✔ I’m looking to collaborate with any **Open - Source contribution**<br> </li>
-<li>✔ I’m looking for help for learning **Remote Sensing**<br></li>
+<li>✔ I’m looking for help for learning Solidity<br></li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br></li>
  </ul>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
+ 
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
