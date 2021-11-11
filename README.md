@@ -24,10 +24,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 <ul>
   <li> ✔ I’m currently Learning  Solidity For Smart Contract Development </li>
-✔ I’m currently learning **ReactJS** & **NodeJS** For Web Development
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+<li>✔ I’m currently learning **ReactJS** & **NodeJS** For Web Development</li>
+<li>✔ I’m looking to collaborate with any **Open - Source contribution**<br> </li>
+<li>✔ I’m looking for help for learning **Remote Sensing**<br></li>
+<li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br></li>
  </ul>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
