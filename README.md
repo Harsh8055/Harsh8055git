@@ -12,8 +12,7 @@
 
 <p align="center">
   <em>
-    This is ME, Harsh Singh, a <b>first year</b> undergraduate from Manipal University Jaipur</b> <br>
-    A Curious Web Developer</b> and a <b>Web3 Enthusiast</b>
+    This is ME, Harsh Singh, an undergraduate from Manipal University Jaipur</b> <br>
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
@@ -22,8 +21,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 <ul>
 <li>✔ I’m currently Learning  Solidity For Smart Contract Development </li>
-<li>✔ I’m currently learning ReactJS & NodeJS For Web Development</li>
-<li>✔ I’m looking to collaborate with any Open - Source contribution </li>
+<li>✔ I’m currently learning ReactJS, EtherJS & For Dapp Development</li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
   <li><p align="left" style="display: flex">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
