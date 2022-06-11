@@ -19,7 +19,7 @@
 &nbsp;***Talking about Personal Stuffs...***
 <ul>
 <li>✔ I’m currently building in web3 with soldiity and etherjs </li>
-<li>✔ I’m also learning ReactJS For Dapp development</li>
+<li>✔ I use hardhat, ethers, typescript and solidity mainly for any smart contract development</li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
   <li><p align="left" style="display: flex">
     &nbsp;  ***Languages & Tools I Know...***
