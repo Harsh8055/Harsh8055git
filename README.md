@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsh Singh</h1>
+<h1 align="center">Hi , I'm Harsh Singh</h1>
 <h3 align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-singh-a347641aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -14,17 +14,15 @@
   <em>
     This is ME, Harsh Singh</b> <br>
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
-
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+&nbsp;***Talking about Personal Stuffs...***
 <ul>
 <li>✔ I’m currently building in web3 with soldiity and etherjs </li>
 <li>✔ I’m also learning ReactJS For Dapp development</li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
   <li><p align="left" style="display: flex">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+    &nbsp;  ***Languages & Tools I Know...***
  
  
   
