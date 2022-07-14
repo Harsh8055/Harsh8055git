@@ -13,11 +13,7 @@
 <p align="center">
   <em>
     This is ME, Harsh Singh</b> <br>
-  <br>
-  <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
-</p>
-&nbsp;***Talking about Personal Stuffs...***
-<ul>
+ 
 <li>✔ I’m currently building in web3 with soldiity and etherjs </li>
 <li>✔ I use hardhat, ethers, typescript and solidity mainly for any smart contract development</li>
 <li>✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉</li>
