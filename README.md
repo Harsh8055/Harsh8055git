@@ -31,17 +31,7 @@
  </li>
 
  </ul>
- <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh8055git&show_icons=true&theme=synthwave" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh8055git&theme=synthwave" />
-</p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Harsh8055git&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-<!-- <div align="center">
-  
-### Show some ❤️ by starring ⭐ some of the repositories!
-![](https://hit.yhype.me/github/profile?user_id=71445997)
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+ 
 
 
