@@ -2,7 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi , I'm Harsh Singh</h1>
 <h3 align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-singh-a347641aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
